@@ -170,6 +170,7 @@ A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and
 *Projects and software for prompt management, prompt organisation, prompt library creation and optimisation, as well as other resources that aren't simply prompt libraries*
 
 - [OpenPrompt.co](https://github.com/timqian/openprompt.co)
+- [yori](https://github.com/arjia-labs/yori) A CLI library for organising and composing reusable prompts, agents, commands, and skills, rendering them into ready-to-pipe text for any model or agent.
 - [AI Prompt Genius](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius)
 - [ChatGPT Prompt Genius](https://github.com/wenhaomin/ChatGPT-PromptGenius) About
 All-purpose prompts website with hierarchical classification system. Helps you quickly find and share wonderful prompts!  
