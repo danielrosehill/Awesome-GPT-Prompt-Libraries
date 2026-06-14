@@ -132,6 +132,7 @@ The scope of this list is:
 ### Chinese
 
 - [ChatGPT Prompts](https://github.com/jevantang/chatgpt-prompts)
+- [AI Workflow Prompts Zh](https://github.com/Ronnie2025/ai-workflow-prompts-zh)
 - [B30](https://github.com/B3o/GPTS-Prompt-Collection)
 - [Safety Prompts](https://github.com/thu-coai/Safety-Prompts)
 - [ChatGPT IT Prompts](https://github.com/nigel327/ChatGPT-IT-Prompts)
